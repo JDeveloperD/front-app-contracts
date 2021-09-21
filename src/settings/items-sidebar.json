@@ -1,0 +1,49 @@
+[
+    {
+        "type": "title",
+        "name": "Panel Principal"
+    },
+    {
+        "type": "item",
+        "hasChildrens": false,
+        "name": "Dashboard",
+        "path": "/",
+        "icon": "sliders"
+    },
+    {
+        "type": "title",
+        "name": "Empleados"
+    },
+    {
+        "type": "item",
+        "hasChildrens": false,
+        "name": "Gestionar Empleados",
+        "path": "/empleados",
+        "icon": "users"
+    },
+    {
+        "type": "item",
+        "hasChildrens": false,
+        "name": "Gestionar Afp's",
+        "path": "/afps",
+        "icon": "percent"
+    },
+    {
+        "type": "title",
+        "name": "Contratos"
+    },
+    {
+        "type": "item",
+        "hasChildrens": false,
+        "name": "Gestionar Contratos",
+        "path": "/contratos",
+        "icon": "file-text"
+    },
+    {
+        "type": "item",
+        "hasChildrens": false,
+        "name": "Gestionar Pagos",
+        "path": "/pagos",
+        "icon": "dollar-sign"
+    }
+]

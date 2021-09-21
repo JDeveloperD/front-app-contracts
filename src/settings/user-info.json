@@ -1,0 +1,62 @@
+{
+    "notifications": [
+        {
+            "icon": "alert-circle",
+            "title": "Update completed",
+            "text": "Restart server 12 to complete the update.",
+            "time": "30m ago",
+            "type": "danger"
+        },
+        {
+            "icon": "bell",
+            "title": "Lorem ipsum",
+            "text": "Aliquam ex eros, imperdiet vulputate hendrerit et.",
+            "time": "2h ago",
+            "type": "warning"
+        },
+        {
+            "icon": "home",
+            "title": "Login from 192.186.1.8",
+            "time": "5h ago",
+            "type": "primary"
+        },
+        {
+            "icon": "user-plus",
+            "title": "New connection",
+            "text": "Christina accepted your request.",
+            "time": "14h ago",
+            "type": "success"
+        }
+    ],
+    "inbox": [
+        {
+            "avatar": "https://demo.adminkit.io/img/avatars/avatar-5.jpg",
+            "nickName": "Vanessa Tucker",
+            "message": "Nam pretium turpis et arcu. Duis arcu tortor.",
+            "date": "15m ago"
+        },
+        {
+            "avatar": "https://demo.adminkit.io/img/avatars/avatar-2.jpg",
+            "nickName": "William Harris",
+            "message": "Curabitur ligula sapien euismod vitae.",
+            "date": "2h ago"
+        },
+        {
+            "avatar": "https://demo.adminkit.io/img/avatars/avatar-3.jpg",
+            "nickName": "Christina Mason",
+            "message": "Pellentesque auctor neque nec urna.",
+            "date": "4h ago"
+        },
+        {
+            "avatar": "https://demo.adminkit.io/img/avatars/avatar-4.jpg",
+            "nickName": "Sharon Lessman",
+            "message": "Aenean tellus metus, bibendum sed, posuere ac, mattis non.",
+            "date": "5h ago"
+        }
+    ],
+    "userInfo": {
+        "nickName": "Nostradamus",
+        "names": "David Sandoval",
+        "avatar": "https://cdn.pixabay.com/photo/2016/02/19/11/46/man-1209947_960_720.jpg 1x, https://cdn.pixabay.com/photo/2016/02/19/11/46/man-1209947_1280.jpg 2x"
+    }
+}
